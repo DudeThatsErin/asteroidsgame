@@ -2,7 +2,7 @@
 This is a game I made to test my knowledge of C++.
 ![](https://github.com/DudeThatsErin/Asteroids-Game/blob/master/Asteroids3_0v3ULEJ96t.gif)
 
-#### Video Demo: (https://youtu.be/tyTNZL70Dcc
+#### Video Demo: https://youtu.be/tyTNZL70Dcc
 
 #### Description:
 
